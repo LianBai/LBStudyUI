@@ -1,0 +1,12 @@
+/project/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+/project/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta
+/project/Assets/Plugins/Editor/JetBrains.meta
+/ProjectSettings
+/UserSettings
+/Library
+/Temp
+/Logs
+*.Rider.Unity.Editor.Plugin.Repacked.dll
+*.csproj.meta
+*.iml
+*.DS_Store
